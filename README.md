@@ -1,2 +1,20 @@
-# neo-civ-engine
-Modular, data-driven Civilization-inspired turn-based 4X game prototype in Godot 4. Focus on extensible engine and core mechanics. Built with coding agents and open-source best practices.
+# NeoCiv Engine
+
+Modular Godot 4 / Bevy prototype for a Civilization-inspired 4X TBS game.
+
+## Goals
+- Simplest viable core engine with deep extensibility.
+- Data-driven mechanics.
+- AI-agent friendly development.
+
+## Tech Stack
+- Godot 4.3+ (primary)
+- GDScript + Resources
+- Hex TileMap
+- Data: JSON + .tres resources
+
+## Quick Start
+1. Clone & open in Godot.
+2. etc.
+
+See ARCHITECTURE.md and SPRINTS.md
